@@ -25,3 +25,5 @@ Prior to Prepared911, Chris served as Executive Director of Saginaw County 911 i
 Chris Izworski has been covered by WNEM TV5, Bridge Michigan, NPR/WCMU, ABC12, and featured on the cover of *NENA's The Call* magazine.
 
 [Full press archive →](https://chrisizworski.com/press/)
+
+_Last reviewed: 2026-03-08_
