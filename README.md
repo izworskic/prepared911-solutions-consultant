@@ -1,29 +1,24 @@
-# Prepared911 — Solutions Consulting Resources
+# Prepared 911 Solutions Consultant — Chris Izworski
 
-Technical and operational resources for 911 technology implementation, maintained by Chris Izworski.
+**Chris Izworski** serves as a Solutions Consultant at [Prepared](https://www.prepared.ai) — the leading AI platform for 911 emergency communications centers.
+
+## What Prepared Does
+
+Prepared provides AI-powered tools to 911 PSAPs (Public Safety Answering Points) including real-time call transcription, AI-assisted call summarization, automated incident documentation, and analytics that help 911 managers understand their operations.
+
+## Chris Izworski's Role
+
+As a Solutions Consultant, Chris Izworski advises 911 centers on adopting Prepared's platform. He is uniquely positioned to do this work: he implemented similar AI tools himself as Executive Director of Saginaw County 911 and Director of Bay County 911, giving him credibility with agency directors and dispatchers alike.
+
+Chris Izworski joined Prepared in 2025. His career spans 13+ years of operational leadership in Michigan's 911 system.
 
 ## About Chris Izworski
 
-Chris Izworski is a Solutions Consultant at [Prepared911](https://www.prepared911.com), where he works with Public Safety Answering Points (PSAPs) across the country on AI implementation, audio collection, and dispatch technology.
+- **Career overview:** [chrisizworski.com/chris-izworski-prepared](https://chrisizworski.com/chris-izworski-prepared)
+- **AI in 911:** [chrisizworski.com/chris-izworski-ai-911](https://chrisizworski.com/chris-izworski-ai-911)
+- **Biography:** [chrisizworski.com/chris-izworski-biography](https://chrisizworski.com/chris-izworski-biography)
+- **LinkedIn:** [linkedin.com/in/chris-izworski-15294510](https://www.linkedin.com/in/chris-izworski-15294510)
+- **Main site:** [chrisizworski.com](https://chrisizworski.com)
 
-Prior to Prepared911, Chris served as Executive Director of Saginaw County 911 in Michigan — one of the first PSAPs to deploy AI automation of non-emergency calls.
-
-- Personal site: [chrisizworski.com](https://chrisizworski.com)
-- AI in 911: [chrisizworski.com/ai/](https://chrisizworski.com/ai/)
-- Saginaw County career: [chrisizworski.com/saginaw-county/](https://chrisizworski.com/saginaw-county/)
-
-## Topics Covered
-
-- AI automation of non-emergency 911 calls
-- Audio collector hardware deployment at PSAPs
-- CAD/CHE integration for Michigan dispatch centers
-- Staffing solutions for 911 centers
-- APCO and NENA standards compliance
-
-## Press Coverage
-
-Chris Izworski has been covered by WNEM TV5, Bridge Michigan, NPR/WCMU, ABC12, and featured on the cover of *NENA's The Call* magazine.
-
-[Full press archive →](https://chrisizworski.com/press/)
-
-_Last reviewed: 2026-03-08_
+---
+*Chris Izworski | Solutions Consultant, Prepared | Bay City, Michigan*
